@@ -1,6 +1,6 @@
 # 👋🏼 Hi! Nice to meet you!
 
-My name is Davi Moura. I have a degree in Information Systems and I enjoy working as a Back-End developer.
+My name is Davi Moura. I have a degree in Information Systems and I enjoy working as a Back-End developer, but I am currently transitioning to data analysis.
 
 ## 🚀 Technologies & Stats
 
